@@ -25,7 +25,7 @@
 > The Hotels Resrvation API allows users to create account and create new Rooms and can reserved the room.
 
 ### Frontend Repository
-  <a href="https://github.com/huzaifakhan0308/full-stack-capstone-front-end">Final capstone front end</a>
+  <a href="https://github.com/Fene-87/hotel-room-reservation-front-end">Final capstone front end</a>
 
 ## :camera: screenshots <a name="screenshots"></a>
 
